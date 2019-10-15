@@ -108,7 +108,7 @@ a {
 /*---
  * Modules
  --- */
-.ball {
+.dot {
   display: block;
   position: absolute;
   top: 50%;
@@ -237,24 +237,24 @@ a {
   text-align: center;
 }
 
-.level-two .ball:first-of-type {
+.level-two .dot:first-of-type {
   top: 35%;
   animation-delay: 1s;
 }
 
-.level-two .ball:last-of-type {
+.level-two .dot:last-of-type {
   top: 65%;
   animation-delay: 2s;
 }
 
-.level-three .ball:first-of-type {
+.level-three .dot:first-of-type {
   top: 35%;
   height: 1.5rem;
   width: 1.5rem;
   animation-delay: 1s;
 }
 
-.level-three .ball:last-of-type {
+.level-three .dot:last-of-type {
   top: 65%;
   height: 3rem;
   width: 3rem;
