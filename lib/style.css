@@ -136,11 +136,6 @@ a {
   flex-wrap: nowrap;
 }
 
-.level-header__title,
-.level-header__score {
-  /* width: 40%; */
-}
-
 .level-header h2,
 .level-header h4 {
   display: inline;
