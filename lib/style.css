@@ -260,3 +260,8 @@ a {
   width: 3rem;
   animation-delay: 2s;
 }
+
+.timer {
+  color: white;
+  font-size: 2em;
+}
